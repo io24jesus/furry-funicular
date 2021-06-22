@@ -1,6 +1,5 @@
 const express = require('express');
 const plantilla = require('express-handlebars');
-const gulp = require('gulp');
 
 const path = require('path');
 
